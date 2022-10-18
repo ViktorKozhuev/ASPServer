@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xPDNlbw8EfnA4pYYk/bqE7pb1zmh8NY7Ih1/P/b0//kGPtDjB2Upe+CE/+1LDvFHpGp/+9QBVMIKUKr7nsFaqg==",
+  "success": true,
+  "projectFilePath": "C:\\Viktor\\Programming\\Stepic_messanger\\ASPCoreServer\\ASPCoreServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vikto\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
